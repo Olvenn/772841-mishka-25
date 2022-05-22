@@ -6,7 +6,7 @@
     position: absolute;
     left: 0;
     top: -44px;
-    background-image: url("../img/icons_main/zigzag-line-mobile.svg");
+    background-image: url("../../../img/icons_main/zigzag-line-mobile.svg");
     background-repeat: repeat-x;
     width: 100%;
     height: 6px;
@@ -15,7 +15,7 @@
   @media (min-width: $tablet-width) {
     &::before {
       top: -84px;
-      background-image: url("../img/icons_main/zigzag-line-tablet.svg");
+      background-image: url("../../../img/icons_main/zigzag-line-tablet.svg");
       background-repeat: repeat-x;
       height: 17px;
     }
@@ -26,7 +26,7 @@
       left: 50px;
       width: 1050px;
       top: -127px;
-      background-image: url("../img/icons_main/zigzag-line-desktop.svg");
+      background-image: url("../../../img/icons_main/zigzag-line-desktop.svg");
       height: 23px;
     }
   }
@@ -167,14 +167,14 @@
 .contacts__map {
   width: auto;
   height: 454px;
-  background-image: url("../img/index/map-tablet@1x 1.jpg");
+  background-image: url("../../../img/images/map-tablet@1x 1.jpg");
   background-repeat: no-repeat;
   background-position-x: 44%;
   margin-bottom: 41px;
   grid-area: map;
 
   @media (max-width: $mobile-width-only) {
-    background-image: url("../img/index/map-tablet@1x 1.jpg");
+    background-image: url("../../../img/images/map-tablet@1x 1.jpg");
     margin-right: -50px;
 
   }
@@ -185,8 +185,7 @@
   }
 
   @media (min-width: $desktop-width) {
-    width: 100%;
-    background-image: url("../img/index/map-desktop@1x 1.jpg");
+    background-image: url("../../../img/images/map-desktop@1x 1.jpg");
     margin: -34px 0 2px -44px;
     padding-right: 50px;
   }
