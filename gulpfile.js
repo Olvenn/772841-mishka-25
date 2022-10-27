@@ -162,3 +162,8 @@ export default gulp.series(
     server,
     watcher
   ));
+
+function deploy(cb) {
+  ghPages.publish(path.join(process.cwd(), './build'), cb);
+}
+exports.deploy = deploy;
