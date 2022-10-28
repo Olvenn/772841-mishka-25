@@ -10,22 +10,22 @@
 
 ### Использованные технологии:
 
-  HTML5
-  CSS3 & SCSS & Sass
-  Git & GitHub
-  JS (ES5)
-  NPM
-  БЭМ
-  Gulp
-  Svg
-  Adaptive
-  Responsive
-  Mobile first
-  Pixel Perfect
-  Retina
-  DOM
-  Flex-box
-  Grid
+| HTML5 |
+| CSS3 & SCSS & Sass |
+| Git & GitHub |
+| JS (ES5) |
+| NPM |
+| БЭМ |
+| Svg |
+| NPM |
+| Adaptive |
+| Responsive |
+| Mobile first |
+| Pixel Perfect |
+| Retina |
+| DOM |
+| Flex-box |
+| Grid |
 
 ### Как использовать
 
